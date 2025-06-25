@@ -1,0 +1,9 @@
+*
+!baml_src
+!src
+!*.json
+!eslint.config.mjs
+!.prettier*
+!.nvmrc
+!.npmrc
+!*.ts
