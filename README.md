@@ -1,6 +1,6 @@
 # Service
 
-An API service that interacts with AIs and agents 
+An API service that interacts with AIs and agents
 
 ## Instructions
 
